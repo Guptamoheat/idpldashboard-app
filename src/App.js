@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { MatchPage } from './pages/MatchPage';
 
 import { TeamPage } from './pages/TeamPage';
