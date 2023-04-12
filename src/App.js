@@ -13,7 +13,7 @@ function App() {
       <Routes>
           <Route path="/teams/:teamName" element = {<TeamPage></TeamPage>}/>
           <Route path="/teams/:teamName/matches/:year" element = {<MatchPage></MatchPage>}/>
-          <Route path="/team" element = {<HomePage></HomePage>}/>
+          <Route path="/teams" element = {<HomePage></HomePage>}/>
       </Routes>
       </BrowserRouter>
       
